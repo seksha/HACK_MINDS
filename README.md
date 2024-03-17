@@ -1,9 +1,9 @@
-TITTLE:                        
-                      **Design a telemedicine application that enables virtual consultations between patients and healthcare professional**
+                      
+              **Design a telemedicine website that enables virtual consultations between patients and healthcare professional**
 
 
 **DESCRIPTION**:-
-TeleMed Connect is a medical application used to create seamless communication between patients and doctors. Our platform prioritizes user privacy and security while providing insights to patients and doctors. With features such as instant video conferencing, appointment scheduling, medication management and advanced security measures, TeleMed Connect aims to revolutionize healthcare by providing quality care for everyone, anytime, anywhere.
+TeleMed Connect is a medical website used to create seamless communication between patients and doctors. Our platform prioritizes user privacy and security while providing insights to patients and doctors. With features such as instant video conferencing, appointment scheduling, medication management and advanced security measures, TeleMed Connect aims to revolutionize healthcare by providing quality care for everyone, anytime, anywhere.
 
 
 **Team members details**  :-
