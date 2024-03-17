@@ -102,6 +102,8 @@ ARCHITECTURE OR BLOCK DIAGRAM:-
 ![Screenshot 2024-03-16 112716](https://github.com/seksha/HACK_MINDS/assets/150233059/6b01e5e4-eeb4-4bde-bc1f-c26d222cc281)
 
 
+https://github.com/seksha/HACK_MINDS/assets/150233059/f45d61fb-0ab3-4d85-b167-11b8025c5207
+
 
 
 
