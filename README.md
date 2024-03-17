@@ -10,13 +10,13 @@ TeleMed Connect is a medical application used to create seamless communication b
 
 TEAM NO:-VH185
 
-SHAIK SHARUK
+SHAIK SHARUK       -9921004663@klu.ac.in
 
-SHAIK ABDUL KALAM
+SHAIK ABDUL KALAM  -9921004649@klu.ac.in
 
-SHAIK SEKSHA VALI
+SHAIK SEKSHA VALI  -9921004662@klu.ac.in
 
-SHAIK SAHAR ALI
+SHAIK SAHAR ALI    -9921004659@klu.ac.in
 
 
 **The problem it solves**  :-
@@ -101,6 +101,7 @@ Databases: Database management systems (MySQL, PostgreSQL, etc.) are essential f
 ARCHITECTURE OR BLOCK DIAGRAM:-
 ![Screenshot 2024-03-16 112716](https://github.com/seksha/HACK_MINDS/assets/150233059/6b01e5e4-eeb4-4bde-bc1f-c26d222cc281)
 
+DEMO VIDEO :-
 
 https://github.com/seksha/HACK_MINDS/assets/150233059/f45d61fb-0ab3-4d85-b167-11b8025c5207
 
